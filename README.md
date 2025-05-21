@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kumar Gaurav
 - 👀 I’m interested in Coding, Cricket and Music
-- 🌱 I’m currently learning and using  C sharp and dot net framework.
-- 💞️ I’m looking to collaborate on Software Developer Role
+- 🌱 I’m entry level Quantitative Developer
+- 💞️ I’m looking to Quantitaive Developer role, investment manager, HFT, MFT, Hedge Fund Manager.
 - 📫 You can reach me on https://in.linkedin.com/in/krgaurav03
 
 <!---
